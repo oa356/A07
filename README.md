@@ -121,14 +121,13 @@
         </section>
         <aside>
             <h2 id="speakers">Speakers</h2>
-            <h3>October<br><a href="speakers/toobin.html">Jeffrey Toobin</a></h3>
-            <img src="images/toobin75.jpg" alt="Jeffrey Toobin photo">
-            <h3>November<br><a href="speakers/sorkin.html">Andrew Ross Sorkin</a></h3>
-            <img src="images/sorkin75.jpg" alt="Andrew Ross Sorkin photo">
-            <h3>January<br><a href="speakers/chua.html">Amy Chua</a></h3>
-            <img src="images/chua75.jpg" alt="Amy Chua photo">
-            <h3>February<br><a href="speakers/sampson.html">Scott Sampson</a></h3>
-            <img src="images/sampson75.jpg" alt="Scott Sampson">
+		<h1>This season's guest speakers</h1>
+		<h3>October<br><a href="speakers/brancaccio.html">David Brancaccio</a></h3>
+		<img src="images/brancaccio75.jpg" alt="David Brancaccio photo">
+		<h3>November<br><a href="speakers/sorkin.html">Andrew Ross Sorkin</a></h3>
+		<img src="images/sorkin75.jpg" alt="Andrew Ross Sorkin photo">
+		<h3>January<br><a href="speakers/chua.html">Amy Chua</a></h3>
+		<img src="images/chua75.jpg" alt="Amy Chua photo">
         </aside>
     </main>
     <footer>
