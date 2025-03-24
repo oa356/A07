@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -114,9 +113,9 @@
         </div>
     </div>
 
-    <footer>
-        <p>&copy; 2022 San Joaquin Valley Town Hall</p>
-    </footer>
+	<footer>
+		<p>&copy; 2025, Olumuyiwa Akinde, oa356</p>
+	</footer>
 </body>
 
 </html>
