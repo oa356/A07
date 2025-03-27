@@ -98,7 +98,7 @@
         <h1>This season's guest speakers</h1>
         <div class="speakers">
             <div class="speaker">
-                <img src="images/toobin75.jpg" alt="David Brancaccio">
+                <img src="images/brancaccio75.jpg" alt="David Brancaccio">
                 <p><strong>October</strong><br><a href="#">David Brancaccio</a></p>
             </div>
             <div class="speaker">
